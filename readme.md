@@ -1,6 +1,6 @@
 # SUDOKU SOLVER
 
-*Author: BCPTe*
+*Author: BCPTe*<br>
 *Version: 1.0*
 
 ---
